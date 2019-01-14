@@ -48,8 +48,9 @@ De core features voor het MVP zijn:
 3. [TheKitchen](https://www.thekitchn.com/)
 
 In de meeste populaire recepten website is er te veel spam en irrelevante artikelen en video's.
-In deze sites is er ook niet mogelijk om calorierijke / eiwitrijke recepten te zoeken.
+In deze sites is er ook niet mogelijk om calorierijke / eiwitrijke recepten te zoekRoen.
 Ze zijn vaak gericht op huisvrouwen.
 
 
 **Moeilijkste Delen:** Implementatie van de databases.
+
