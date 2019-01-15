@@ -23,7 +23,7 @@
 - Profiel
   - Scherm met favoriete recepten van de gebruiker die is aangeklikt, GET, POST
 - Favoriet
-  - Geen eigen scherm, voegt een recept toe aan favoriete recepten op persoonlijk profiel, blijf op pagina
+  - Geen eigen scherm, voegt een recept toe aan favoriete recepten op persoonlijk profiel, blijf op pagina, POST
 - Gebruikers
   - Scherm met alle gebruikers die betreffend recept hebben geliked, GET, POST
 
